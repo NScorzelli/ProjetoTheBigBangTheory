@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\WorkBench.exe
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\WorkBench.deps.json
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\WorkBench.runtimeconfig.json
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\WorkBench.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\WorkBench.dll
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\ref\WorkBench.dll
+C:\Users\nicol\source\repos\WorkBench\WorkBench\bin\Debug\net5.0\WorkBench.pdb
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.AssemblyInfo.cs
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.dll
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\ref\WorkBench.dll
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.pdb
+C:\Users\nicol\source\repos\WorkBench\WorkBench\obj\Debug\net5.0\WorkBench.genruntimeconfig.cache
