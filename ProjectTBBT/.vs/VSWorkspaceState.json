@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WorkBench"
   ],
-  "SelectedNode": "\\WorkBench.sln",
+  "SelectedNode": "\\WorkBench\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

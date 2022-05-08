@@ -29,18 +29,10 @@ namespace WorkBench
                 act.DeclararResultado(score);
 
             }
-            catch (ArgumentException e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Insira um número válido.");
-            }
-            catch (Exception)
+            catch (Exception e)
             {
 
-                throw;
+                Console.WriteLine(e.Message);
             }
         }      
     }
